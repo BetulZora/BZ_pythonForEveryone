@@ -6,4 +6,4 @@ xr = input('Enter Rate: ')
 xp = int(xh) * float(xr)
 
 
-print( 'Pay:', str(xp))1
+print( 'Pay:', str(xp))
